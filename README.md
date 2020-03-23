@@ -1,4 +1,7 @@
+(esto es una versión preliminar, falta mucha edición)
+
 # covid-19 readme
+
 
 Estudiando teoría de redes complejas el físico Albert Laszlo Barabasi y otros científicos encontraron que las conexiones entre la humanidad no son iguales para todos sino que siguen una regla 80-20, es decir, aproximadamente el 80% de la gente tiene pocas amistades o contactos y el 20% tiene muchas conexiones amistosas. Y esa proporción se cumple para cualquier población. Es decir, en una población de mil personas hay muchas personas poco conectadas (800 personas) y pocas que son muy conectadas (200 personas), dentro de este último grupo existen algunas que son hubs o superconectores (40 personas). En el mundo real tienen miles de amistades o conexiones e interactúan con muchísima gente en su vida cotidiana. 
 
@@ -36,6 +39,7 @@ qué hacer y no hacer, [sugerencias](https://www.theatlantic.com/family/archive/
 
 [Distanciamiento social](https://directorsblog.nih.gov/2020/03/19/to-beat-covid-19-social-distancing-is-a-must/), ellos son los que propagan más la enfermedad de acuerdo a [Science](file:///home/juan/Descargas/science.abb3221.full.pdf), por eso podemos romper la cadena como ilustra el [New York Times](https://www.nytimes.com/2020/03/19/health/coronavirus-distancing-transmission.html)
 
+La cancelación de viajes por sí sola no es [efectiva](https://www.sciencenews.org/article/coronavirus-pandemic-limit-spread-social-distancing-travel-bans), sino el distanciamiento social.
 
 
 Practicamente todos los países afectados están tomando estas medidas [1](https://ma.ttias.be/government-act-corona-covid-19/), [2]https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-cancel-everything/607675/), [3](https://www.flattenthecurve.com/), [4](https://staythefuckhome.com/), [5](https://www.vox.com/2020/3/10/21171481/coronavirus-us-cases-quarantine-cancellation)
@@ -168,6 +172,8 @@ PAPERS:
 [surveillance of China](http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51)
 [therapies](https://www.elsevier.com/__data/assets/pdf_file/0007/988648/COVID-19-Drug-Therapy_Mar-2020.pdf)
 [Taiwan case](https://jamanetwork.com/journals/jama/fullarticle/2762689)
+
+[Complex network medicine](https://www.biorxiv.org/content/10.1101/2020.03.22.002386v1)
 
 [blood type A is more susceptible, O-type is more resilient]
 (https://www.scmp.com/news/china/society/article/3075567/people-blood-type-may-be-more-vulnerable-coronavirus-china-study)
